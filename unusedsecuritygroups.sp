@@ -1,5 +1,7 @@
 dashboard "Unused Security Groups" {
 
+  title = "Unused (Orphaned) security groups"
+
 
   container {
     text {
