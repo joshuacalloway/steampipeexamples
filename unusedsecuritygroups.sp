@@ -1,4 +1,4 @@
-dashboard "Unused Security Groups" {
+dashboard "Unused_Security_Groups" {
 
   title = "Unused (Orphaned) security groups"
 
